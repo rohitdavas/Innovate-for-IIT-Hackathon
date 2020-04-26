@@ -1,0 +1,14 @@
+1.  working directory => change working directory to djangoWebApp
+2.  open the terminal in working directory
+3. run " python manage.py runserver 8080 "
+
+4. open the web interface.
+
+5. explore.
+
+6. only admin can access the option of uploading the data file and training/testing/ evaluating the model.
+	i have attached working snapshots for this purpose
+
+7. predictions of my output are in prediction_funny.csv and prediction_sent.csv on root of this file,  
+
+8. submission by team hackwarriors
